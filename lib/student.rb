@@ -1,10 +1,10 @@
 class Student
 
-  # def hello
-  #
-  # end
-  #
-  # def raise_hand
-  #
-  # end
+  def hello
+
+  end
+
+  def raise_hand
+
+  end
 end
